@@ -1,5 +1,8 @@
 # IBM_Data_Analyst_Capstone_Project
-Welcome to the IBM Data Analyst Capstone Project! This project is part of a larger initiative undertaken by a global IT and business consulting services firm. As a Data Analyst, you have been recently hired to assist with this project, leveraging your skills in data collection, analysis, and visualization.
+Welcome to the IBM Data Analyst Capstone Project! 
+
+# Problem Statement
+This project is part of a larger initiative undertaken by a global IT and business consulting services firm. As a Data Analyst, you have been recently hired to assist with this project, leveraging your skills in data collection, analysis, and visualization.
 
 # Project Overview
 The primary goal of this project is to analyze data from various sources to identify trends and insights regarding emerging skills in the IT industry. The organization you work for is renowned for its expertise in IT solutions and has a team of highly experienced IT consultants. To remain competitive in a rapidly evolving technological landscape, your firm regularly conducts data analysis to understand future skill requirements.
