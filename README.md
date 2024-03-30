@@ -1,4 +1,4 @@
-# IBM Data Analyst Professional Certificate Projects
+# IBM Data Analyst Projects
 
 Welcome to the repository for projects completed as part of the IBM Data Analyst Professional Certificate on Coursera. This repository showcases a variety of data analysis projects covering different domains and techniques. Each project is designed to demonstrate practical skills in data analysis, visualization, and interpretation using tools like SQL, Python, and various libraries.
 
